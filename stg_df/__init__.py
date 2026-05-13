@@ -1,0 +1,1 @@
+"""Tiny STG game package."""
